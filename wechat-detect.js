@@ -1,4 +1,3 @@
-<script>
 (function() {
     // 1. 判断是否为微信浏览器
     if (/MicroMessenger/i.test(navigator.userAgent)) {
@@ -84,4 +83,3 @@
         };
     }
 })();
-</script>
